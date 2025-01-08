@@ -10,7 +10,7 @@ Word Embedding Visualization: Visualizes word embeddings (e.g., using PCA or t-S
 Named Entity Recognition (NER): Identifies and visualizes entities (people, places, organizations) in a text.
 Collocations & Bigrams: Identifies and visualizes frequently occurring word pairs (bigrams).
 
-Prerequisites
+Prerequisites,
 To run this project, you need the following:
 Python (3.x or higher)
 
