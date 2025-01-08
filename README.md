@@ -1,4 +1,4 @@
-# NLP_PROJec nlp_wordcloud-patch-1
+# NLP_PROJECT 
 NLP Word Visualization Project
 Description
 The NLP Word Visualization project is a tool for visualizing textual data to gain insights into word usage, frequency, and relationships. Using techniques such as word clouds, word embeddings, and frequency distribution plots, this project helps analyze and understand textual datasets in a more interactive and informative way.
