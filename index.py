@@ -4,7 +4,7 @@
 
 
 
-# Sample DataFrame of text data
+# Sample DataFrame
 data = {'text': ["I love programming!", "Python is awesome.", "I hate bugs.", "I love debugging my code.", "Coding is fun!"]}
 df = pd.DataFrame(data)
 
