@@ -29,4 +29,4 @@ text = "I love this product! It's amazing."
 sentiment, polarity = analyze_sentiment(text)
 
 print(f"Sentiment: {sentiment}")
-print(f"Polarity: {polarity}")
+
