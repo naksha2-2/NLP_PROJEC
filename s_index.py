@@ -9,9 +9,7 @@ def analyze_sentiment(text):
     # Create a TextBlob object
     blob = TextBlob(text)
     
-    # Get the sentiment polarity
-    polarity = blob.sentiment.polarity
-
+    
     # Determine if sentiment is positive, negative, or neutral
     if polarity > 0:
         sentiment = "Positive"
