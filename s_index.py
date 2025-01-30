@@ -1,8 +1,6 @@
 
 
 
-from textblob import TextBlob
-
 
 # Function to analyze sentiment
 def analyze_sentiment(text):
