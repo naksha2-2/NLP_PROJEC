@@ -6,8 +6,8 @@ The NLP Word Visualization project is a tool for visualizing textual data to gai
 Features
 Word Cloud: Visualizes the most frequent words in a given text.
 Frequency Distribution Plot: Plots the frequency of words in a dataset.
-Word Embedding Visualization: Visualizes word embeddings (e.g., using PCA or t-SNE) to explore the semantic relationships between words.
-Named Entity Recognition (NER): Identifies and visualizes entities (people, places, organizations) in a text.
+Word Embedding Visualization: Visualizes word embeddings to explore the semantic relationships between words.
+Named Entity Recognition (NER): Identifies and visualizes entities in a text.
 Collocations & Bigrams: Identifies and visualizes frequently occurring word pairs (bigrams).
 
 Prerequisites,
